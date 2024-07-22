@@ -42,6 +42,7 @@ function updateCity(event) {
         "h:mm:ss:SS [<small>] A [</small>]"
       )}  </div>  
     </div>
+    <a href="/">Back to all cities.</a>
         `;
 }
 
